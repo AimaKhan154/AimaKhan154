@@ -9,12 +9,8 @@
 
 - 📚 **Education:**  
   - Bachelor of Science in Software Engineering at **Sir Syed University of Engineering and Technology**.  
-  - Certificates in **Responsive Web Design** and other technical skills.  
+- Certificates in **Responsive Web Design**, **Artificial Intelligence** and **Data Science**, along with other technical skills.
 
-- 😄 **Pronouns:** She/Her  
-
-- ⚡ **Fun Fact:**  
-  I once solved a coding problem in under **5 minutes**! 🚀  
 
 
 ## 🛠️ Skills  
