@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aima Khan!  
 
-🌟 **Software Developer | Web Developer | Tech Enthusiast**  
+🌟 **Software Developer | Web Developer  
 
 ## 💻 About Me  
 
